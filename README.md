@@ -13,3 +13,11 @@ While the microprocessor is general purpose in design and performs number of fun
 * How often and in what order the loop variables and data elements accessed.
 * How can thrashing of cache lines be limited?
 * How does the organization of cache, write strategy, and replacement strategy affect performance?
+
+### Key Learnings:
+1. Cache memory architecture
+2. Memory hierarchy and memory architecture
+3. SRAM
+4. Cache coherency
+5. Advantages of cache
+6. Cache functionality in multi-processing
